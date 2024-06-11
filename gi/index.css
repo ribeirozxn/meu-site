@@ -1,0 +1,29 @@
+body {
+    color: white;
+    background-color: purple;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+img {
+    width: 350px;
+    height: 250px;
+    border-radius: 50%;
+    border: 5px solid palevioletred;
+}
+
+.center {
+    text-align: center;
+}
